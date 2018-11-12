@@ -18,4 +18,15 @@ qBittorrent search engine plugins:
 MIT License. See LICENSE file.
 
 
+## Homepage
+[gitlab.com/wahibre/qbittorrent-search-plugin](https://gitlab.com/wahibre/qbittorrent-search-plugin)
+
+
+## References
+
+- [qBittorrent homepage](https://github.com/qbittorrent/qBittorrent/wiki)
+- [search-plugins wiki](https://github.com/qbittorrent/search-plugins/wiki)
+- [python (en)](https://docs.python.org/3/reference/index.html)
+- [python (sk)](http://python.input.sk/)
+
 **Use the plugins and the websites they refer to at your own risk. You are personally responsible for following your country's copyright laws.**
