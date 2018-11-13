@@ -6,11 +6,11 @@ qBittorrent search engine plugins:
  
 ## Installation
  
-- Download and extract [latest version](...)
+- Download and extract [latest version](https://gitlab.com/wahibre/qbittorrent-search-plugin/blob/master/sktorrent.py)
 - Login/Signin on [sktorrent.eu](http://sktorrent.eu)
 - In your browser Settings search for saved Cookies `uid` and `pass` for [sktorrent.eu](http://sktorrent.eu)
 - Edit sktorrent.py File and update `sktorrent_credentials` according to your Cookies
-- Follow Instruction on qBittorrent search pluggins official [Wiki](https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins)
+- In `Search plugins` -> `install a new one` -> `local file` choose modified sktorrent.py file (see official [wiki](https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins) )
 
 
 ## License
