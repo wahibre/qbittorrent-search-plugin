@@ -2,7 +2,7 @@
 
 qBittorrent search engine plugins:
 
-- ![Ico](sktorrent.png) *SK Torrent* ([http://sktorrent.eu](http://sktorrent.eu))
+- ![Ico](sktorrent.png) *SK Torrent* ([https://sktorrent.eu](https://sktorrent.eu))
  
 ## Installation
  
